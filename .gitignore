@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/slnx.sqlite
+/.vs/CodingTest3June2021/v16/.suo
+/CodingTest.Business/bin/Debug/net5.0
+/CodingTest.Business/obj
+/CodingTest.Tests/obj
+/CodingTest.Tests/bin/Debug/net5.0
+/CodingTest.DataAdapter/obj
+/CodingTest.DataAdapter/bin/Debug/net5.0
+/.vs/VSWorkspaceState.json
